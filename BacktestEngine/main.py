@@ -5,7 +5,7 @@ T = "KRW-BTC"
 
 
 def main():
-    print("This is test, changed to main  from master")
+    print("This is test, changed to main  from master ")
     # [a, s] = misc.get_key()
     # Temporary Keys
     [a, s] = ["9kUv2anniOtBOxvpX0tE0xxUnlG8mkPjBe82RK2e", "wk7kx7t9c8x8rLGMyn3e2xxzNEh4QVvbDy9rqdjW"]
